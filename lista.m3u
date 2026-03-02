@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TV Brasil
-https://iptv-org.github.io/iptv/streams/br/tvbrasil.m3u8
-#EXTINF:-1,TV Cultura
-https://iptv-org.github.io/iptv/streams/br/tvcultura.m3u8
-#EXTINF:-1,TV Câmara
-https://iptv-org.github.io/iptv/streams/br/tvcamara.m3u8
-#EXTINF:-1,TV Senado
-https://iptv-org.github.io/iptv/streams/br/tvsenado.m3u8
 #EXTINF:-1,Sony One Shark Tank Brasil
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1,TV Jovem Pan
