@@ -1,0 +1,16 @@
+
+#EXTM3U
+
+# ===== BRASIL | PÚBLICA =====
+#EXTINF:-1 group-title="Brasil | Pública",TV Brasil
+https://iptv-org.github.io/iptv/streams/br/tvbrasil.m3u8
+
+#EXTINF:-1 group-title="Brasil | Pública",TV Cultura
+https://iptv-org.github.io/iptv/streams/br/tvcultura.m3u8
+
+# ===== BRASIL | LEGISLATIVA =====
+#EXTINF:-1 group-title="Brasil | Legislativa",TV Câmara
+https://iptv-org.github.io/iptv/streams/br/tvcamara.m3u8
+
+#EXTINF:-1 group-title="Brasil | Legislativa",TV Senado
+https://iptv-org.github.io/iptv/streams/br/tvsenado.m3u8
