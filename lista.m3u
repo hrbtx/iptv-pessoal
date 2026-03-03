@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Esportes",ESPN 2 FHD
+http://protecreverse.shop:80/364905256/073975236/13572516.m3u8
+
+
 #EXTINF:-1 group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 
@@ -9,9 +13,6 @@ http://protecreverse.shop:80/364905256/073975236/13808319.m3u8
 #EXTINF:-1 group-title="Notícias",CNN Brasil HD
 http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
 
-
-#EXTINF:-1 group-title="Esportes",Pluto TV Esportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99fbcf71e0fd0007f7b6a5/master.m3u8
 
 #EXTINF:-1 group-title="Esportes",ESPN 1 FHD
 http://protecreverse.shop:80/364905256/073975236/13572510.m3u8
