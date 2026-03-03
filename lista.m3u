@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Esportes",ESPN 2 FHD
-http://protecreverse.shop:80/364905256/073975236/13572516.m3u8
+
 
 
 #EXTINF:-1 group-title="Notícias",TV Jovem Pan
@@ -16,3 +15,12 @@ http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
 
 #EXTINF:-1 group-title="Esportes",ESPN 1 FHD
 http://protecreverse.shop:80/364905256/073975236/13572510.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 2 FHD
+http://protecreverse.shop:80/364905256/073975236/13572516.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 3 FHD
+http://protecreverse.shop:80/364905256/073975236/13572518
+
+#EXTINF:-1 group-title="Esportes",ESPN 4 FHD
+http://protecreverse.shop:80/364905256/073975236/13572522
