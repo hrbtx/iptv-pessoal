@@ -1,26 +1,21 @@
 #EXTM3U
-
-
-
-
-#EXTINF:-1 group-title="Notícias",TV Jovem Pan
+#EXTINF:-1 tvg-name="TV Jovem Pan" group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-
-#EXTINF:-1 group-title="Notícias",CNN Brasil FHD
+#EXTINF:-1 tvg-name="CNN Brasil FHD" group-title="Notícias",CNN Brasil FHD
 http://protecreverse.shop:80/364905256/073975236/13808319.m3u8
-
-#EXTINF:-1 group-title="Notícias",CNN Brasil HD
+#EXTINF:-1 tvg-name="CNN Brasil HD" group-title="Notícias",CNN Brasil HD
 http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
-
-
-#EXTINF:-1 group-title="ESPN",ESPN 1 FHD
+#EXTINF:-1 tvg-name="ESPN 1 FHD" group-title="ESPN",ESPN 1 FHD
 http://protecreverse.shop:80/364905256/073975236/13572510.m3u8
-
-#EXTINF:-1 group-title="ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-name="ESPN 2 FHD" group-title="ESPN",ESPN 2 FHD
 http://protecreverse.shop:80/364905256/073975236/13572516.m3u8
-
-#EXTINF:-1 group-title="ESPN",ESPN 3 FHD
+#EXTINF:-1 tvg-name="ESPN 3 FHD" group-title="ESPN",ESPN 3 FHD
 http://protecreverse.shop:80/364905256/073975236/13572518
-
-#EXTINF:-1 group-title="ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-name="ESPN 4 FHD" group-title="ESPN",ESPN 4 FHD
 http://protecreverse.shop:80/364905256/073975236/13572522
+#EXTINF:-1 tvg-name="Animal Planet FHD" group-title="Entretenimento",Animal Planet FHD
+http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
+#EXTINF:-1 tvg-name="Xsports FHD" group-title="Xsports",Xsports FHD
+http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
+#EXTINF:-1 tvg-name="Disney+ HD" group-title="Disney+",Disney+ HD
+http://cmd2025.xyz/live/3042625/7837240/96204.m3u
