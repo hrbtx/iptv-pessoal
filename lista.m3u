@@ -6,13 +6,13 @@ http://dsplays.pro/live/1307587/4232281/969.m3u
 #EXTINF:-1 tvg-name="CNN Brasil HD" group-title="Notícias",CNN Brasil HD
 http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
 #EXTINF:-1 tvg-name="ESPN 1 FHD" group-title="ESPN",ESPN 1 FHD
-http://protecreverse.shop:80/364905256/073975236/13572510.m3u8
+http://takegot.net:80/1cGGtx/9zaMMC/83809
 #EXTINF:-1 tvg-name="ESPN 2 FHD" group-title="ESPN",ESPN 2 FHD
-http://protecreverse.shop:80/364905256/073975236/13572516.m3u8
+http://takegot.net:80/1cGGtx/9zaMMC/83807
 #EXTINF:-1 tvg-name="ESPN 3 FHD" group-title="ESPN",ESPN 3 FHD
-http://protecreverse.shop:80/364905256/073975236/13572518
+http://takegot.net:80/1cGGtx/9zaMMC/83808
 #EXTINF:-1 tvg-name="ESPN 4 FHD" group-title="ESPN",ESPN 4 FHD
-http://protecreverse.shop:80/364905256/073975236/13572522
+http://takegot.net:80/1cGGtx/9zaMMC/83811
 #EXTINF:-1 tvg-name="Animal Planet FHD" group-title="Entretenimento",Animal Planet FHD
 http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
 #EXTINF:-1 tvg-name="Xsports FHD" group-title="Xsports",Xsports FHD
@@ -115,5 +115,28 @@ http://takegot.net:80/1cGGtx/9zaMMC/360815
 http://takegot.net:80/1cGGtx/9zaMMC/360816
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD [Alt]" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/360817
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 
-
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 SD
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/156746
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="CONMEBOL Paramount+ 1 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83866
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="CONMEBOL Paramount+ 1 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
+http://takegot.net:80/1cGGtx/9zaMMC/122541
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83706
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="CONMEBOL Paramount+ 2 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83869
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="CONMEBOL Paramount+ 2 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83705
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83712
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="CONMEBOL Paramount+ 3 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
+http://takegot.net:80/1cGGtx/9zaMMC/86706
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="CONMEBOL Paramount+ 3 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83711
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="CONMEBOL Paramount+ 4 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83715
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="CONMEBOL Paramount+ 4 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
+http://takegot.net:80/1cGGtx/9zaMMC/165437
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="CONMEBOL Paramount+ 4 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83714
