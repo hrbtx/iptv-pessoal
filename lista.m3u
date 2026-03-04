@@ -19,604 +19,601 @@ http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
 http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
 #EXTINF:-1 tvg-name="Disney+ HD" group-title="Disney+",Disney+ HD
 http://cmd2025.xyz/live/3042625/7837240/96204.m3u
-#EXTINF:-1 tvg-name="Globo RJ 4K" group-title="Globo RJ",Globo RJ 4K
-http://dsplays.pro/live/1307587/4232281/1036334.m3u
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
+#EXTINF:-1 tvg-name="Premiere 1 Clubes 4K" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="4K - H265",Premiere 1 Clubes 4K
 http://takegot.net:80/1cGGtx/9zaMMC/151037
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83813
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147633
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 1 Clubes FHD [H265]" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="4K - H265",Premiere 1 Clubes FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83405
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes HD
-http://takegot.net:80/1cGGtx/9zaMMC/83251
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes HD [Alt]" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147634
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes SD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 1 Clubes SD
-http://takegot.net:80/1cGGtx/9zaMMC/83601
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/87323
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147635
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | 4K - H265",Premiere 2 FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="4K - H265",Premiere 2 FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83406
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 HD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83245
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 HD [Alt]" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147636
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 SD" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Canais | Premiere FC",Premiere 2 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83602
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/87321
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147637
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | 4K - H265",Premiere 3 FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="4K - H265",Premiere 3 FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83407
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 HD" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83246
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 HD [Alt]" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147638
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 SD" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Canais | Premiere FC",Premiere 3 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83603
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/87320
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147639
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="4K - H265",Premiere 4 FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83408
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 HD" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83247
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 HD [Alt]" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147640
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 SD" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Canais | Premiere FC",Premiere 4 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83604
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 FHD" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Canais | Premiere FC",Premiere 5 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/152926
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147641
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | 4K - H265",Premiere 5 FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="4K - H265",Premiere 5 FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83409
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 HD" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83248
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 HD [Alt]" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147642
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 5 SD" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Canais | Premiere FC",Premiere 5 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83605
-#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 FHD" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/87319
-#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147643
-#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | 4K - H265",Premiere 6 FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="4K - H265",Premiere 6 FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83410
-#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 HD" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83249
-#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 HD [Alt]" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147644
-#EXTINF:-1 tvg-id="br#premiere-6" tvg-name="Premiere 6 SD" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Canais | Premiere FC",Premiere 6 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83606
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 FHD" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/87318
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147645
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | 4K - H265",Premiere 7 FHD [H265]
+#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="4K - H265",Premiere 7 FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/83411
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 HD" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83250
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 HD [Alt]" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147646
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 7 SD" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Canais | Premiere FC",Premiere 7 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83607
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 8 FHD" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/360814
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 8 FHD [Alt]" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/360815
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 HD
-http://takegot.net:80/1cGGtx/9zaMMC/360816
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD [Alt]" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/360817
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="" group-title="Canais | Premiere FC",Premiere 8 SD
-#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/156746
-#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="CONMEBOL Paramount+ 1 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83866
-#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-name="CONMEBOL Paramount+ 1 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
-http://takegot.net:80/1cGGtx/9zaMMC/122541
-#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83706
-#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="CONMEBOL Paramount+ 2 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
-http://takegot.net:80/1cGGtx/9zaMMC/83869
-#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-name="CONMEBOL Paramount+ 2 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83705
-#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83712
-#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="CONMEBOL Paramount+ 3 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
-http://takegot.net:80/1cGGtx/9zaMMC/86706
-#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-name="CONMEBOL Paramount+ 3 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83711
-#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="CONMEBOL Paramount+ 4 FHD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83715
-#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="CONMEBOL Paramount+ 4 HD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
-http://takegot.net:80/1cGGtx/9zaMMC/165437
-#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-name="CONMEBOL Paramount+ 4 SD" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
-http://takegot.net:80/1cGGtx/9zaMMC/83714
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Araxá MG FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162710
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Araxá MG HD
-http://takegot.net:80/1cGGtx/9zaMMC/162709
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Araxá MG SD
-http://takegot.net:80/1cGGtx/9zaMMC/162708
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD
-http://takegot.net:80/1cGGtx/9zaMMC/132027
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147391
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD
-http://takegot.net:80/1cGGtx/9zaMMC/132028
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147392
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador SD
-http://takegot.net:80/1cGGtx/9zaMMC/83644
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia FHD
-http://takegot.net:80/1cGGtx/9zaMMC/154000
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147395
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia HD
-http://takegot.net:80/1cGGtx/9zaMMC/83455
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147396
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia SD
-http://takegot.net:80/1cGGtx/9zaMMC/83564
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83504
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147370
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD
-http://takegot.net:80/1cGGtx/9zaMMC/83503
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147371
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas SD
-http://takegot.net:80/1cGGtx/9zaMMC/83550
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83515
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos HD
-http://takegot.net:80/1cGGtx/9zaMMC/162804
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos SD
-http://takegot.net:80/1cGGtx/9zaMMC/83549
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83434
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto HD
-http://takegot.net:80/1cGGtx/9zaMMC/83514
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto SD
-http://takegot.net:80/1cGGtx/9zaMMC/165432
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162812
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas HD
-http://takegot.net:80/1cGGtx/9zaMMC/83516
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas SD
-http://takegot.net:80/1cGGtx/9zaMMC/284490
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Integração Divinópolis FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Integração Divinópolis FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162717
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Integração Divinópolis HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Integração Divinópolis HD
-http://takegot.net:80/1cGGtx/9zaMMC/162675
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Integração DIvinópolis SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Integração DIvinópolis SD
-http://takegot.net:80/1cGGtx/9zaMMC/151322
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162707
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147406
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral HD
-http://takegot.net:80/1cGGtx/9zaMMC/162706
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral SD
-http://takegot.net:80/1cGGtx/9zaMMC/162705
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162784
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal HD
-http://takegot.net:80/1cGGtx/9zaMMC/162785
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal SD
-http://takegot.net:80/1cGGtx/9zaMMC/147407
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV dos Vales FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162713
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV dos Vales HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales HD
-http://takegot.net:80/1cGGtx/9zaMMC/162712
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Serra Mar FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar FHD
-http://takegot.net:80/1cGGtx/9zaMMC/150157
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Serra Mar HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar HD
-http://takegot.net:80/1cGGtx/9zaMMC/150156
-#EXTINF:-1 tvg-id="br#globosat-1" tvg-name="GB Inter TV Serra Mar SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar SD
-http://takegot.net:80/1cGGtx/9zaMMC/164591
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas FHD
-http://takegot.net:80/1cGGtx/9zaMMC/165439
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas HD
-http://takegot.net:80/1cGGtx/9zaMMC/165440
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
-http://takegot.net:80/1cGGtx/9zaMMC/162674
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162792
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147374
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas HD
-http://takegot.net:80/1cGGtx/9zaMMC/83491
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147375
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas SD
-http://takegot.net:80/1cGGtx/9zaMMC/83565
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162790
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147376
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD
-http://takegot.net:80/1cGGtx/9zaMMC/162791
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147377
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife SD
-http://takegot.net:80/1cGGtx/9zaMMC/83567
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162778
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147410
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD
-http://takegot.net:80/1cGGtx/9zaMMC/83489
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147670
-#EXTINF:-1 tvg-id="br#gloob-hd" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste FHD
-http://takegot.net:80/1cGGtx/9zaMMC/193334
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Centro Oeste HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste HD
-http://takegot.net:80/1cGGtx/9zaMMC/193333
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Centro Oeste SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste SD
-http://takegot.net:80/1cGGtx/9zaMMC/126115
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162714
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco HD
-http://takegot.net:80/1cGGtx/9zaMMC/147411
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco SD
-http://takegot.net:80/1cGGtx/9zaMMC/162715
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Criciúma FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162789
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Criciúma FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147412
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Criciúma HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma HD
-http://takegot.net:80/1cGGtx/9zaMMC/162771
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162775
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianopolis SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis SD
-http://takegot.net:80/1cGGtx/9zaMMC/162777
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianópolis FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147379
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD
-http://takegot.net:80/1cGGtx/9zaMMC/83500
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianópolis HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147380
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162719
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147413
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Joinville HD
-http://takegot.net:80/1cGGtx/9zaMMC/162718
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB PB TV Paraíba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB PB TV Paraíba HD
-http://takegot.net:80/1cGGtx/9zaMMC/147726
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB PE Asa Branca FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB PE Asa Branca FHD
-http://takegot.net:80/1cGGtx/9zaMMC/152922
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB PE Asa Branca HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB PE Asa Branca HD
-http://takegot.net:80/1cGGtx/9zaMMC/151324
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias do Sul FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83438
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias do Sul HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul HD
-http://takegot.net:80/1cGGtx/9zaMMC/83333
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias do Sul SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul SD
-http://takegot.net:80/1cGGtx/9zaMMC/147414
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Cruz Alta FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83579
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Cruz Alta HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta HD
-http://takegot.net:80/1cGGtx/9zaMMC/165433
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Passo Fundo FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162761
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Passo Fundo HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo HD
-http://takegot.net:80/1cGGtx/9zaMMC/162803
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Passo Fundo SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo SD
-http://takegot.net:80/1cGGtx/9zaMMC/154680
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas FHD
-http://takegot.net:80/1cGGtx/9zaMMC/86690
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas HD
-http://takegot.net:80/1cGGtx/9zaMMC/86691
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas SD
-http://takegot.net:80/1cGGtx/9zaMMC/147415
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD
-http://takegot.net:80/1cGGtx/9zaMMC/154096
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147381
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD
-http://takegot.net:80/1cGGtx/9zaMMC/83462
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147382
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre SD
-http://takegot.net:80/1cGGtx/9zaMMC/83611
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Santa Maria FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria FHD
-http://takegot.net:80/1cGGtx/9zaMMC/287472
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria HD
-http://takegot.net:80/1cGGtx/9zaMMC/147416
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Santa Maria SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria SD
-http://takegot.net:80/1cGGtx/9zaMMC/287471
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazonica Porto Velho HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazonica Porto Velho HD
-http://takegot.net:80/1cGGtx/9zaMMC/163693
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Manaus FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162793
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Manaus HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus HD
-http://takegot.net:80/1cGGtx/9zaMMC/83497
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Manaus SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus SD
-http://takegot.net:80/1cGGtx/9zaMMC/147417
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Porto Velho FHD
-http://takegot.net:80/1cGGtx/9zaMMC/152928
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco FHD
-http://takegot.net:80/1cGGtx/9zaMMC/152927
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rio Branco HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco HD
-http://takegot.net:80/1cGGtx/9zaMMC/163694
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rondônia FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162734
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rondônia HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia HD
-http://takegot.net:80/1cGGtx/9zaMMC/165434
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Boa Vista FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Boa Vista FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162554
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Boa Vista HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Boa Vista HD
-http://takegot.net:80/1cGGtx/9zaMMC/162683
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Macapá FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Macapá FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162723
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Macapá HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Macapá HD
-http://takegot.net:80/1cGGtx/9zaMMC/162685
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83502
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147384
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ HD
-http://takegot.net:80/1cGGtx/9zaMMC/83459
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ HD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147385
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ SD
-http://takegot.net:80/1cGGtx/9zaMMC/83568
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Cascavel FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Cascavel FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83330
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Cascavel HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Cascavel HD
-http://takegot.net:80/1cGGtx/9zaMMC/83298
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Cascavel SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Cascavel SD
-http://takegot.net:80/1cGGtx/9zaMMC/83289
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD
-http://takegot.net:80/1cGGtx/9zaMMC/154280
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147386
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba HD
-http://takegot.net:80/1cGGtx/9zaMMC/83493
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba SD
-http://takegot.net:80/1cGGtx/9zaMMC/147387
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu FHD
-http://takegot.net:80/1cGGtx/9zaMMC/86704
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu HD
-http://takegot.net:80/1cGGtx/9zaMMC/86705
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu SD
-http://takegot.net:80/1cGGtx/9zaMMC/147418
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Londrina HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Londrina HD
-http://takegot.net:80/1cGGtx/9zaMMC/318230
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringa FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Maringa FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162704
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringa HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Maringa HD
-http://takegot.net:80/1cGGtx/9zaMMC/162703
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringá FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Maringá FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147419
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162698
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147420
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa HD
-http://takegot.net:80/1cGGtx/9zaMMC/162699
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC TV Paranavai FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai FHD
-http://takegot.net:80/1cGGtx/9zaMMC/162722
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC TV Paranavai HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai HD
-http://takegot.net:80/1cGGtx/9zaMMC/162721
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP 4K" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | 4K - H265",GB SP 4K
+#EXTINF:-1 tvg-name="GB SP 4K" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="4K - H265",GB SP 4K
 http://takegot.net:80/1cGGtx/9zaMMC/151058
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83510
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP FHD [Alt]
-http://takegot.net:80/1cGGtx/9zaMMC/147388
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | 4K - H265",GB SP FHD [H265]
+#EXTINF:-1 tvg-name="GB SP FHD [H265]" tvg-id="br#rede-globo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="4K - H265",GB SP FHD [H265]
 http://takegot.net:80/1cGGtx/9zaMMC/155266
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP HD
+#EXTINF:-1 tvg-name="Premiere 1 Clubes FHD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 Clubes FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83813
+#EXTINF:-1 tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 Clubes FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147633
+#EXTINF:-1 tvg-name="Premiere 1 Clubes HD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 Clubes HD
+http://takegot.net:80/1cGGtx/9zaMMC/83251
+#EXTINF:-1 tvg-name="Premiere 1 Clubes HD [Alt]" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 Clubes HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147634
+#EXTINF:-1 tvg-name="Premiere 1 Clubes SD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 Clubes SD
+http://takegot.net:80/1cGGtx/9zaMMC/83601
+#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/87323
+#EXTINF:-1 tvg-name="Premiere 2 FHD [Alt]" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147635
+#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83245
+#EXTINF:-1 tvg-name="Premiere 2 HD [Alt]" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147636
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83602
+#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/87321
+#EXTINF:-1 tvg-name="Premiere 3 FHD [Alt]" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147637
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83246
+#EXTINF:-1 tvg-name="Premiere 3 HD [Alt]" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147638
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83603
+#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/87320
+#EXTINF:-1 tvg-name="Premiere 4 FHD [Alt]" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147639
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83247
+#EXTINF:-1 tvg-name="Premiere 4 HD [Alt]" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147640
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83604
+#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 5 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/152926
+#EXTINF:-1 tvg-name="Premiere 5 FHD [Alt]" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147641
+#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83248
+#EXTINF:-1 tvg-name="Premiere 5 HD [Alt]" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147642
+#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83605
+#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/87319
+#EXTINF:-1 tvg-name="Premiere 6 FHD [Alt]" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147643
+#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83249
+#EXTINF:-1 tvg-name="Premiere 6 HD [Alt]" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147644
+#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83606
+#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/87318
+#EXTINF:-1 tvg-name="Premiere 7 FHD [Alt]" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147645
+#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83250
+#EXTINF:-1 tvg-name="Premiere 7 HD [Alt]" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147646
+#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83607
+#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-id="PremiereClubes.br" group-title="Premiere FC",Premiere 8 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/360814
+#EXTINF:-1 tvg-name="Premiere 8 FHD [Alt]" tvg-id="PremiereClubes.br" group-title="Premiere FC",Premiere 8 FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/360815
+#EXTINF:-1 tvg-name="Premiere 8 HD" group-title="Premiere FC",Premiere 8 HD
+http://takegot.net:80/1cGGtx/9zaMMC/360816
+#EXTINF:-1 tvg-name="Premiere 8 HD [Alt]" group-title="Premiere FC",Premiere 8 HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/360817
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/156746
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 HD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83866
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 SD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
+http://takegot.net:80/1cGGtx/9zaMMC/122541
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83706
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 2 HD" tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
+http://takegot.net:80/1cGGtx/9zaMMC/83869
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 2 SD" tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83705
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83712
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 3 HD" tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
+http://takegot.net:80/1cGGtx/9zaMMC/86706
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 3 SD" tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83711
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 FHD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83715
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 HD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
+http://takegot.net:80/1cGGtx/9zaMMC/165437
+#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 SD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
+http://takegot.net:80/1cGGtx/9zaMMC/83714
+#EXTINF:-1 tvg-name="GB Araxá MG FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Araxá MG FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162710
+#EXTINF:-1 tvg-name="GB Araxá MG HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Araxá MG HD
+http://takegot.net:80/1cGGtx/9zaMMC/162709
+#EXTINF:-1 tvg-name="GB Araxá MG SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Araxá MG SD
+http://takegot.net:80/1cGGtx/9zaMMC/162708
+#EXTINF:-1 tvg-name="GB Bahia Salvador FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Bahia Salvador FHD
+http://takegot.net:80/1cGGtx/9zaMMC/132027
+#EXTINF:-1 tvg-name="GB Bahia Salvador FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Bahia Salvador FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147391
+#EXTINF:-1 tvg-name="GB Bahia Salvador HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Bahia Salvador HD
+http://takegot.net:80/1cGGtx/9zaMMC/132028
+#EXTINF:-1 tvg-name="GB Bahia Salvador HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Bahia Salvador HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147392
+#EXTINF:-1 tvg-name="GB Bahia Salvador SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Bahia Salvador SD
+http://takegot.net:80/1cGGtx/9zaMMC/83644
+#EXTINF:-1 tvg-name="GB Brasilia FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Brasilia FHD
+http://takegot.net:80/1cGGtx/9zaMMC/154000
+#EXTINF:-1 tvg-name="GB Brasilia FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Brasilia FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147395
+#EXTINF:-1 tvg-name="GB Brasilia HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Brasilia HD
+http://takegot.net:80/1cGGtx/9zaMMC/83455
+#EXTINF:-1 tvg-name="GB Brasilia HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Brasilia HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147396
+#EXTINF:-1 tvg-name="GB Brasilia SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Brasilia SD
+http://takegot.net:80/1cGGtx/9zaMMC/83564
+#EXTINF:-1 tvg-name="GB EPTV Campinas FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Campinas FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83504
+#EXTINF:-1 tvg-name="GB EPTV Campinas FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Campinas FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147370
+#EXTINF:-1 tvg-name="GB EPTV Campinas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Campinas HD
+http://takegot.net:80/1cGGtx/9zaMMC/83503
+#EXTINF:-1 tvg-name="GB EPTV Campinas HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Campinas HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147371
+#EXTINF:-1 tvg-name="GB EPTV Campinas SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Campinas SD
+http://takegot.net:80/1cGGtx/9zaMMC/83550
+#EXTINF:-1 tvg-name="GB EPTV Central Sao Carlos FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Central Sao Carlos FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83515
+#EXTINF:-1 tvg-name="GB EPTV Central Sao Carlos HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Central Sao Carlos HD
+http://takegot.net:80/1cGGtx/9zaMMC/162804
+#EXTINF:-1 tvg-name="GB EPTV Central Sao Carlos SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Central Sao Carlos SD
+http://takegot.net:80/1cGGtx/9zaMMC/83549
+#EXTINF:-1 tvg-name="GB EPTV Ribeirao Preto FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Ribeirao Preto FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83434
+#EXTINF:-1 tvg-name="GB EPTV Ribeirao Preto HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Ribeirao Preto HD
+http://takegot.net:80/1cGGtx/9zaMMC/83514
+#EXTINF:-1 tvg-name="GB EPTV Ribeirao Preto SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Ribeirao Preto SD
+http://takegot.net:80/1cGGtx/9zaMMC/165432
+#EXTINF:-1 tvg-name="GB EPTV Sul de Minas FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Sul de Minas FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162812
+#EXTINF:-1 tvg-name="GB EPTV Sul de Minas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Sul de Minas HD
+http://takegot.net:80/1cGGtx/9zaMMC/83516
+#EXTINF:-1 tvg-name="GB EPTV Sul de Minas SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB EPTV Sul de Minas SD
+http://takegot.net:80/1cGGtx/9zaMMC/284490
+#EXTINF:-1 tvg-name="GB Integração Divinópolis FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Integração Divinópolis FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162717
+#EXTINF:-1 tvg-name="GB Integração Divinópolis HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Integração Divinópolis HD
+http://takegot.net:80/1cGGtx/9zaMMC/162675
+#EXTINF:-1 tvg-name="GB Integração DIvinópolis SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Integração DIvinópolis SD
+http://takegot.net:80/1cGGtx/9zaMMC/151322
+#EXTINF:-1 tvg-name="GB Inter TV Alto Litoral FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Alto Litoral FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162707
+#EXTINF:-1 tvg-name="GB Inter TV Alto Litoral FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Alto Litoral FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147406
+#EXTINF:-1 tvg-name="GB Inter TV Alto Litoral HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Alto Litoral HD
+http://takegot.net:80/1cGGtx/9zaMMC/162706
+#EXTINF:-1 tvg-name="GB Inter TV Alto Litoral SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Alto Litoral SD
+http://takegot.net:80/1cGGtx/9zaMMC/162705
+#EXTINF:-1 tvg-name="GB Inter TV Cabugi Natal FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Cabugi Natal FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162784
+#EXTINF:-1 tvg-name="GB Inter TV Cabugi Natal HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Cabugi Natal HD
+http://takegot.net:80/1cGGtx/9zaMMC/162785
+#EXTINF:-1 tvg-name="GB Inter TV Cabugi Natal SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Cabugi Natal SD
+http://takegot.net:80/1cGGtx/9zaMMC/147407
+#EXTINF:-1 tvg-name="GB Inter TV dos Vales FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV dos Vales FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162713
+#EXTINF:-1 tvg-name="GB Inter TV dos Vales HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV dos Vales HD
+http://takegot.net:80/1cGGtx/9zaMMC/162712
+#EXTINF:-1 tvg-name="GB Inter TV Serra Mar FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Serra Mar FHD
+http://takegot.net:80/1cGGtx/9zaMMC/150157
+#EXTINF:-1 tvg-name="GB Inter TV Serra Mar HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Serra Mar HD
+http://takegot.net:80/1cGGtx/9zaMMC/150156
+#EXTINF:-1 tvg-name="GB Inter TV Serra Mar SD" tvg-id="br#globosat-1" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Inter TV Serra Mar SD
+http://takegot.net:80/1cGGtx/9zaMMC/164591
+#EXTINF:-1 tvg-name="GB MG Inter TV Grande Minas FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB MG Inter TV Grande Minas FHD
+http://takegot.net:80/1cGGtx/9zaMMC/165439
+#EXTINF:-1 tvg-name="GB MG Inter TV Grande Minas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB MG Inter TV Grande Minas HD
+http://takegot.net:80/1cGGtx/9zaMMC/165440
+#EXTINF:-1 tvg-name="GB MG Inter TV Grande Minas SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB MG Inter TV Grande Minas SD
+http://takegot.net:80/1cGGtx/9zaMMC/162674
+#EXTINF:-1 tvg-name="GB Minas FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Minas FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162792
+#EXTINF:-1 tvg-name="GB Minas FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Minas FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147374
+#EXTINF:-1 tvg-name="GB Minas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Minas HD
+http://takegot.net:80/1cGGtx/9zaMMC/83491
+#EXTINF:-1 tvg-name="GB Minas HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Minas HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147375
+#EXTINF:-1 tvg-name="GB Minas SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Minas SD
+http://takegot.net:80/1cGGtx/9zaMMC/83565
+#EXTINF:-1 tvg-name="GB Nordeste Recife FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Nordeste Recife FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162790
+#EXTINF:-1 tvg-name="GB Nordeste Recife FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Nordeste Recife FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147376
+#EXTINF:-1 tvg-name="GB Nordeste Recife HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Nordeste Recife HD
+http://takegot.net:80/1cGGtx/9zaMMC/162791
+#EXTINF:-1 tvg-name="GB Nordeste Recife HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Nordeste Recife HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147377
+#EXTINF:-1 tvg-name="GB Nordeste Recife SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Nordeste Recife SD
+http://takegot.net:80/1cGGtx/9zaMMC/83567
+#EXTINF:-1 tvg-name="GB NSC TV Blumenau FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Blumenau FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162778
+#EXTINF:-1 tvg-name="GB NSC TV Blumenau FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Blumenau FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147410
+#EXTINF:-1 tvg-name="GB NSC TV Blumenau HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Blumenau HD
+http://takegot.net:80/1cGGtx/9zaMMC/83489
+#EXTINF:-1 tvg-name="GB NSC TV Blumenau HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Blumenau HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147670
+#EXTINF:-1 tvg-name="GB NSC TV Centro Oeste FHD" tvg-id="br#gloob-hd" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Centro Oeste FHD
+http://takegot.net:80/1cGGtx/9zaMMC/193334
+#EXTINF:-1 tvg-name="GB NSC TV Centro Oeste HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Centro Oeste HD
+http://takegot.net:80/1cGGtx/9zaMMC/193333
+#EXTINF:-1 tvg-name="GB NSC TV Centro Oeste SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Centro Oeste SD
+http://takegot.net:80/1cGGtx/9zaMMC/126115
+#EXTINF:-1 tvg-name="GB NSC TV Chapeco FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Chapeco FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162714
+#EXTINF:-1 tvg-name="GB NSC TV Chapeco HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Chapeco HD
+http://takegot.net:80/1cGGtx/9zaMMC/147411
+#EXTINF:-1 tvg-name="GB NSC TV Chapeco SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Chapeco SD
+http://takegot.net:80/1cGGtx/9zaMMC/162715
+#EXTINF:-1 tvg-name="GB NSC TV Criciúma FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Criciúma FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162789
+#EXTINF:-1 tvg-name="GB NSC TV Criciúma FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Criciúma FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147412
+#EXTINF:-1 tvg-name="GB NSC TV Criciúma HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Criciúma HD
+http://takegot.net:80/1cGGtx/9zaMMC/162771
+#EXTINF:-1 tvg-name="GB NSC TV Florianopolis FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Florianopolis FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162775
+#EXTINF:-1 tvg-name="GB NSC TV Florianopolis SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Florianopolis SD
+http://takegot.net:80/1cGGtx/9zaMMC/162777
+#EXTINF:-1 tvg-name="GB NSC TV Florianópolis FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Florianópolis FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147379
+#EXTINF:-1 tvg-name="GB NSC TV Florianópolis HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Florianópolis HD
+http://takegot.net:80/1cGGtx/9zaMMC/83500
+#EXTINF:-1 tvg-name="GB NSC TV Florianópolis HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Florianópolis HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147380
+#EXTINF:-1 tvg-name="GB NSC TV Joinville FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Joinville FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162719
+#EXTINF:-1 tvg-name="GB NSC TV Joinville FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Joinville FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147413
+#EXTINF:-1 tvg-name="GB NSC TV Joinville HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB NSC TV Joinville HD
+http://takegot.net:80/1cGGtx/9zaMMC/162718
+#EXTINF:-1 tvg-name="GB PB TV Paraíba HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB PB TV Paraíba HD
+http://takegot.net:80/1cGGtx/9zaMMC/147726
+#EXTINF:-1 tvg-name="GB PE Asa Branca FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB PE Asa Branca FHD
+http://takegot.net:80/1cGGtx/9zaMMC/152922
+#EXTINF:-1 tvg-name="GB PE Asa Branca HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB PE Asa Branca HD
+http://takegot.net:80/1cGGtx/9zaMMC/151324
+#EXTINF:-1 tvg-name="GB RBS TV Caxias do Sul FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Caxias do Sul FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83438
+#EXTINF:-1 tvg-name="GB RBS TV Caxias do Sul HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Caxias do Sul HD
+http://takegot.net:80/1cGGtx/9zaMMC/83333
+#EXTINF:-1 tvg-name="GB RBS TV Caxias do Sul SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Caxias do Sul SD
+http://takegot.net:80/1cGGtx/9zaMMC/147414
+#EXTINF:-1 tvg-name="GB RBS TV Cruz Alta FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Cruz Alta FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83579
+#EXTINF:-1 tvg-name="GB RBS TV Cruz Alta HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Cruz Alta HD
+http://takegot.net:80/1cGGtx/9zaMMC/165433
+#EXTINF:-1 tvg-name="GB RBS TV Passo Fundo FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Passo Fundo FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162761
+#EXTINF:-1 tvg-name="GB RBS TV Passo Fundo HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Passo Fundo HD
+http://takegot.net:80/1cGGtx/9zaMMC/162803
+#EXTINF:-1 tvg-name="GB RBS TV Passo Fundo SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Passo Fundo SD
+http://takegot.net:80/1cGGtx/9zaMMC/154680
+#EXTINF:-1 tvg-name="GB RBS TV Pelotas FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Pelotas FHD
+http://takegot.net:80/1cGGtx/9zaMMC/86690
+#EXTINF:-1 tvg-name="GB RBS TV Pelotas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Pelotas HD
+http://takegot.net:80/1cGGtx/9zaMMC/86691
+#EXTINF:-1 tvg-name="GB RBS TV Pelotas SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Pelotas SD
+http://takegot.net:80/1cGGtx/9zaMMC/147415
+#EXTINF:-1 tvg-name="GB RBS TV Porto Alegre FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Porto Alegre FHD
+http://takegot.net:80/1cGGtx/9zaMMC/154096
+#EXTINF:-1 tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Porto Alegre FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147381
+#EXTINF:-1 tvg-name="GB RBS TV Porto Alegre HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Porto Alegre HD
+http://takegot.net:80/1cGGtx/9zaMMC/83462
+#EXTINF:-1 tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Porto Alegre HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147382
+#EXTINF:-1 tvg-name="GB RBS TV Porto Alegre SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Porto Alegre SD
+http://takegot.net:80/1cGGtx/9zaMMC/83611
+#EXTINF:-1 tvg-name="GB RBS TV Santa Maria FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Santa Maria FHD
+http://takegot.net:80/1cGGtx/9zaMMC/287472
+#EXTINF:-1 tvg-name="GB RBS TV Santa Maria HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Santa Maria HD
+http://takegot.net:80/1cGGtx/9zaMMC/147416
+#EXTINF:-1 tvg-name="GB RBS TV Santa Maria SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RBS TV Santa Maria SD
+http://takegot.net:80/1cGGtx/9zaMMC/287471
+#EXTINF:-1 tvg-name="GB Rede Amazonica Porto Velho HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazonica Porto Velho HD
+http://takegot.net:80/1cGGtx/9zaMMC/163693
+#EXTINF:-1 tvg-name="GB Rede Amazônica Manaus FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Manaus FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162793
+#EXTINF:-1 tvg-name="GB Rede Amazônica Manaus HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Manaus HD
+http://takegot.net:80/1cGGtx/9zaMMC/83497
+#EXTINF:-1 tvg-name="GB Rede Amazônica Manaus SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Manaus SD
+http://takegot.net:80/1cGGtx/9zaMMC/147417
+#EXTINF:-1 tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Porto Velho FHD
+http://takegot.net:80/1cGGtx/9zaMMC/152928
+#EXTINF:-1 tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Rio Branco FHD
+http://takegot.net:80/1cGGtx/9zaMMC/152927
+#EXTINF:-1 tvg-name="GB Rede Amazônica Rio Branco HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Rio Branco HD
+http://takegot.net:80/1cGGtx/9zaMMC/163694
+#EXTINF:-1 tvg-name="GB Rede Amazônica Rondônia FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Rondônia FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162734
+#EXTINF:-1 tvg-name="GB Rede Amazônica Rondônia HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Amazônica Rondônia HD
+http://takegot.net:80/1cGGtx/9zaMMC/165434
+#EXTINF:-1 tvg-name="GB Rede Boa Vista FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Boa Vista FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162554
+#EXTINF:-1 tvg-name="GB Rede Boa Vista HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Boa Vista HD
+http://takegot.net:80/1cGGtx/9zaMMC/162683
+#EXTINF:-1 tvg-name="GB Rede Macapá FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Macapá FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162723
+#EXTINF:-1 tvg-name="GB Rede Macapá HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Rede Macapá HD
+http://takegot.net:80/1cGGtx/9zaMMC/162685
+#EXTINF:-1 tvg-name="GB RJ FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RJ FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83502
+#EXTINF:-1 tvg-name="GB RJ FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RJ FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147384
+#EXTINF:-1 tvg-name="GB RJ HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RJ HD
+http://takegot.net:80/1cGGtx/9zaMMC/83459
+#EXTINF:-1 tvg-name="GB RJ HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RJ HD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147385
+#EXTINF:-1 tvg-name="GB RJ SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RJ SD
+http://takegot.net:80/1cGGtx/9zaMMC/83568
+#EXTINF:-1 tvg-name="GB RPC Cascavel FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Cascavel FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83330
+#EXTINF:-1 tvg-name="GB RPC Cascavel HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Cascavel HD
+http://takegot.net:80/1cGGtx/9zaMMC/83298
+#EXTINF:-1 tvg-name="GB RPC Cascavel SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Cascavel SD
+http://takegot.net:80/1cGGtx/9zaMMC/83289
+#EXTINF:-1 tvg-name="GB RPC Curitiba FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Curitiba FHD
+http://takegot.net:80/1cGGtx/9zaMMC/154280
+#EXTINF:-1 tvg-name="GB RPC Curitiba FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Curitiba FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147386
+#EXTINF:-1 tvg-name="GB RPC Curitiba HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Curitiba HD
+http://takegot.net:80/1cGGtx/9zaMMC/83493
+#EXTINF:-1 tvg-name="GB RPC Curitiba SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Curitiba SD
+http://takegot.net:80/1cGGtx/9zaMMC/147387
+#EXTINF:-1 tvg-name="GB RPC Foz do Iguaçu FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Foz do Iguaçu FHD
+http://takegot.net:80/1cGGtx/9zaMMC/86704
+#EXTINF:-1 tvg-name="GB RPC Foz do Iguaçu HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Foz do Iguaçu HD
+http://takegot.net:80/1cGGtx/9zaMMC/86705
+#EXTINF:-1 tvg-name="GB RPC Foz do Iguaçu SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Foz do Iguaçu SD
+http://takegot.net:80/1cGGtx/9zaMMC/147418
+#EXTINF:-1 tvg-name="GB RPC Londrina HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Londrina HD
+http://takegot.net:80/1cGGtx/9zaMMC/318230
+#EXTINF:-1 tvg-name="GB RPC Maringa FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Maringa FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162704
+#EXTINF:-1 tvg-name="GB RPC Maringa HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Maringa HD
+http://takegot.net:80/1cGGtx/9zaMMC/162703
+#EXTINF:-1 tvg-name="GB RPC Maringá FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Maringá FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147419
+#EXTINF:-1 tvg-name="GB RPC Ponta Grossa FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Ponta Grossa FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162698
+#EXTINF:-1 tvg-name="GB RPC Ponta Grossa FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Ponta Grossa FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147420
+#EXTINF:-1 tvg-name="GB RPC Ponta Grossa HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC Ponta Grossa HD
+http://takegot.net:80/1cGGtx/9zaMMC/162699
+#EXTINF:-1 tvg-name="GB RPC TV Paranavai FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC TV Paranavai FHD
+http://takegot.net:80/1cGGtx/9zaMMC/162722
+#EXTINF:-1 tvg-name="GB RPC TV Paranavai HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB RPC TV Paranavai HD
+http://takegot.net:80/1cGGtx/9zaMMC/162721
+#EXTINF:-1 tvg-name="GB SP FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB SP FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83510
+#EXTINF:-1 tvg-name="GB SP FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB SP FHD [Alt]
+http://takegot.net:80/1cGGtx/9zaMMC/147388
+#EXTINF:-1 tvg-name="GB SP HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB SP HD
 http://takegot.net:80/1cGGtx/9zaMMC/83461
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP HD [Alt]
+#EXTINF:-1 tvg-name="GB SP HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB SP HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147389
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP SD
+#EXTINF:-1 tvg-name="GB SP SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB SP SD
 http://takegot.net:80/1cGGtx/9zaMMC/83569
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD
+#EXTINF:-1 tvg-name="GB TV Anhanguera Goiás FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Anhanguera Goiás FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162787
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Anhanguera Goiás FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Anhanguera Goiás FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147404
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD
+#EXTINF:-1 tvg-name="GB TV Anhanguera Goiás HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Anhanguera Goiás HD
 http://takegot.net:80/1cGGtx/9zaMMC/83270
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Anhanguera Goiás HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Anhanguera Goiás HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147405
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás SD
+#EXTINF:-1 tvg-name="GB TV Anhanguera Goiás SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Anhanguera Goiás SD
 http://takegot.net:80/1cGGtx/9zaMMC/83642
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Palmas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Palmas HD
+#EXTINF:-1 tvg-name="GB TV Anhanguera Palmas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Anhanguera Palmas HD
 http://takegot.net:80/1cGGtx/9zaMMC/339235
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Asa Branca Caruaru FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Asa Branca Caruaru FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Asa Branca Caruaru FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Asa Branca Caruaru FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147421
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Cabo Branco FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Cabo Branco FHD
+#EXTINF:-1 tvg-name="GB TV Cabo Branco FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Cabo Branco FHD
 http://takegot.net:80/1cGGtx/9zaMMC/153908
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Cabo Branco HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Cabo Branco HD
+#EXTINF:-1 tvg-name="GB TV Cabo Branco HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Cabo Branco HD
 http://takegot.net:80/1cGGtx/9zaMMC/162696
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Cabo Branco SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Cabo Branco SD
+#EXTINF:-1 tvg-name="GB TV Cabo Branco SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Cabo Branco SD
 http://takegot.net:80/1cGGtx/9zaMMC/83590
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro America Cuiabá FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá FHD
+#EXTINF:-1 tvg-name="GB TV Centro America Cuiabá FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Centro America Cuiabá FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162751
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro America Cuiabá HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá HD
+#EXTINF:-1 tvg-name="GB TV Centro America Cuiabá HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Centro America Cuiabá HD
 http://takegot.net:80/1cGGtx/9zaMMC/162752
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro America Cuiabá SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá SD
+#EXTINF:-1 tvg-name="GB TV Centro America Cuiabá SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Centro America Cuiabá SD
 http://takegot.net:80/1cGGtx/9zaMMC/140943
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro América Cuiabá FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Centro América Cuiabá FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Centro América Cuiabá FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147368
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro América Cuiabá HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Centro América Cuiabá HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Centro América Cuiabá HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147369
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Clube Teresina FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Clube Teresina FHD
+#EXTINF:-1 tvg-name="GB TV Clube Teresina FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Clube Teresina FHD
 http://takegot.net:80/1cGGtx/9zaMMC/147728
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Clube Teresina HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Clube Teresina HD
+#EXTINF:-1 tvg-name="GB TV Clube Teresina HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Clube Teresina HD
 http://takegot.net:80/1cGGtx/9zaMMC/162749
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Clube Teresina SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Clube Teresina SD
+#EXTINF:-1 tvg-name="GB TV Clube Teresina SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Clube Teresina SD
 http://takegot.net:80/1cGGtx/9zaMMC/83508
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Diario Mogi das Cruzes FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes FHD
+#EXTINF:-1 tvg-name="GB TV Diario Mogi das Cruzes FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Diario Mogi das Cruzes FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162745
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Diario Mogi das Cruzes HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes HD
+#EXTINF:-1 tvg-name="GB TV Diario Mogi das Cruzes HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Diario Mogi das Cruzes HD
 http://takegot.net:80/1cGGtx/9zaMMC/83313
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Diario Mogi das Cruzes SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes SD
+#EXTINF:-1 tvg-name="GB TV Diario Mogi das Cruzes SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Diario Mogi das Cruzes SD
 http://takegot.net:80/1cGGtx/9zaMMC/162746
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente FHD
+#EXTINF:-1 tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Fronteira Presidente Prudente FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162672
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Fronteira Presidente Prudente HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente HD
+#EXTINF:-1 tvg-name="GB TV Fronteira Presidente Prudente HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Fronteira Presidente Prudente HD
 http://takegot.net:80/1cGGtx/9zaMMC/162673
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas FHD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD
+#EXTINF:-1 tvg-name="GB TV Gazeta Alagoas FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta Alagoas FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162691
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas FHD [Alt]" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Gazeta Alagoas FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta Alagoas FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147422
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas HD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas HD
+#EXTINF:-1 tvg-name="GB TV Gazeta Alagoas HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta Alagoas HD
 http://takegot.net:80/1cGGtx/9zaMMC/162692
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas SD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas SD
+#EXTINF:-1 tvg-name="GB TV Gazeta Alagoas SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta Alagoas SD
 http://takegot.net:80/1cGGtx/9zaMMC/139482
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Sul FHD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul FHD
+#EXTINF:-1 tvg-name="GB TV Gazeta ES Sul FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta ES Sul FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162687
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Sul HD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul HD
+#EXTINF:-1 tvg-name="GB TV Gazeta ES Sul HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta ES Sul HD
 http://takegot.net:80/1cGGtx/9zaMMC/162688
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria FHD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD
+#EXTINF:-1 tvg-name="GB TV Gazeta ES Vitoria FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta ES Vitoria FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162684
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria FHD [Alt]" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Gazeta ES Vitoria FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta ES Vitoria FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147401
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria HD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD
+#EXTINF:-1 tvg-name="GB TV Gazeta ES Vitoria HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta ES Vitoria HD
 http://takegot.net:80/1cGGtx/9zaMMC/162686
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria HD [Alt]" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Gazeta ES Vitoria HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Globos",GB TV Gazeta ES Vitoria HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147408
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora FHD
+#EXTINF:-1 tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Juiz de Fora FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162681
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora HD
+#EXTINF:-1 tvg-name="GB TV Integracao Juiz de Fora HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Juiz de Fora HD
 http://takegot.net:80/1cGGtx/9zaMMC/162682
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora SD
+#EXTINF:-1 tvg-name="GB TV Integracao Juiz de Fora SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Juiz de Fora SD
 http://takegot.net:80/1cGGtx/9zaMMC/147424
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberaba FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba FHD
+#EXTINF:-1 tvg-name="GB TV Integracao Uberaba FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Uberaba FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83205
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberaba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba HD
+#EXTINF:-1 tvg-name="GB TV Integracao Uberaba HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Uberaba HD
 http://takegot.net:80/1cGGtx/9zaMMC/83401
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberaba SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba SD
+#EXTINF:-1 tvg-name="GB TV Integracao Uberaba SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Uberaba SD
 http://takegot.net:80/1cGGtx/9zaMMC/83381
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberlandia FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberlandia FHD
+#EXTINF:-1 tvg-name="GB TV Integracao Uberlandia FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Uberlandia FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162694
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberlandia HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberlandia HD
+#EXTINF:-1 tvg-name="GB TV Integracao Uberlandia HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Uberlandia HD
 http://takegot.net:80/1cGGtx/9zaMMC/162697
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberlandia SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberlandia SD
+#EXTINF:-1 tvg-name="GB TV Integracao Uberlandia SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Integracao Uberlandia SD
 http://takegot.net:80/1cGGtx/9zaMMC/162760
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belem FHD
+#EXTINF:-1 tvg-name="GB TV Liberal Belem FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Liberal Belem FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162744
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Liberal Belém FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147393
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD
+#EXTINF:-1 tvg-name="GB TV Liberal Belém HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Liberal Belém HD
 http://takegot.net:80/1cGGtx/9zaMMC/83506
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Liberal Belém HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Liberal Belém HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147394
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
+#EXTINF:-1 tvg-name="GB TV Liberal Belém SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Liberal Belém SD
 http://takegot.net:80/1cGGtx/9zaMMC/83649
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante Cocais FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais FHD
+#EXTINF:-1 tvg-name="GB TV Mirante Cocais FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Mirante Cocais FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162720
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante Cocais HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais HD
+#EXTINF:-1 tvg-name="GB TV Mirante Cocais HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Mirante Cocais HD
 http://takegot.net:80/1cGGtx/9zaMMC/162783
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD
+#EXTINF:-1 tvg-name="GB TV Mirante São Luís FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Mirante São Luís FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162742
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Mirante São Luís FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Mirante São Luís FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147397
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD
+#EXTINF:-1 tvg-name="GB TV Mirante São Luís HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Mirante São Luís HD
 http://takegot.net:80/1cGGtx/9zaMMC/83498
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Mirante São Luís HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Mirante São Luís HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147398
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD
+#EXTINF:-1 tvg-name="GB TV Morena MS FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Morena MS FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162733
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Morena MS FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Morena MS FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147399
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS HD
+#EXTINF:-1 tvg-name="GB TV Morena MS HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Morena MS HD
 http://takegot.net:80/1cGGtx/9zaMMC/83479
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Morena MS HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Morena MS HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147400
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Rio Sul FHD
+#EXTINF:-1 tvg-name="GB TV Rio Sul FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Rio Sul FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162782
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Rio Sul HD
+#EXTINF:-1 tvg-name="GB TV Rio Sul HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Rio Sul HD
 http://takegot.net:80/1cGGtx/9zaMMC/83499
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Rio Sul SD
+#EXTINF:-1 tvg-name="GB TV Rio Sul SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Rio Sul SD
 http://takegot.net:80/1cGGtx/9zaMMC/147425
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Santa Cruz FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Santa Cruz FHD
+#EXTINF:-1 tvg-name="GB TV Santa Cruz FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Santa Cruz FHD
 http://takegot.net:80/1cGGtx/9zaMMC/147426
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Santa Cruz HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Santa Cruz HD
+#EXTINF:-1 tvg-name="GB TV Santa Cruz HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Santa Cruz HD
 http://takegot.net:80/1cGGtx/9zaMMC/284945
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Santa Cruz SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Santa Cruz SD
+#EXTINF:-1 tvg-name="GB TV Santa Cruz SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Santa Cruz SD
 http://takegot.net:80/1cGGtx/9zaMMC/284944
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Sergipe Aracaju FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju FHD
+#EXTINF:-1 tvg-name="GB TV Sergipe Aracaju FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Sergipe Aracaju FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83460
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Sergipe Aracaju HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju HD
+#EXTINF:-1 tvg-name="GB TV Sergipe Aracaju HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Sergipe Aracaju HD
 http://takegot.net:80/1cGGtx/9zaMMC/147427
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Sergipe Aracaju SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju SD
+#EXTINF:-1 tvg-name="GB TV Sergipe Aracaju SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Sergipe Aracaju SD
 http://takegot.net:80/1cGGtx/9zaMMC/83775
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Subae FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Subae FHD
+#EXTINF:-1 tvg-name="GB TV Subae FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Subae FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83546
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Subae HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Subae HD
+#EXTINF:-1 tvg-name="GB TV Subae HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Subae HD
 http://takegot.net:80/1cGGtx/9zaMMC/162779
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Subae SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Subae SD
+#EXTINF:-1 tvg-name="GB TV Subae SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Subae SD
 http://takegot.net:80/1cGGtx/9zaMMC/162750
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Bauru FHD
+#EXTINF:-1 tvg-name="GB TV Tem Bauru FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Bauru FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162736
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Bauru HD
+#EXTINF:-1 tvg-name="GB TV Tem Bauru HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Bauru HD
 http://takegot.net:80/1cGGtx/9zaMMC/162737
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Bauru SD
+#EXTINF:-1 tvg-name="GB TV Tem Bauru SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Bauru SD
 http://takegot.net:80/1cGGtx/9zaMMC/83652
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Itapetininga HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Itapetininga HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Tem Itapetininga HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Itapetininga HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/162676
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba FHD
+#EXTINF:-1 tvg-name="GB TV Tem Sorocaba FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Sorocaba FHD
 http://takegot.net:80/1cGGtx/9zaMMC/152579
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba HD
+#EXTINF:-1 tvg-name="GB TV Tem Sorocaba HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Sorocaba HD
 http://takegot.net:80/1cGGtx/9zaMMC/162466
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Sorocaba HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147373
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba SD
+#EXTINF:-1 tvg-name="GB TV Tem Sorocaba SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Sorocaba SD
 http://takegot.net:80/1cGGtx/9zaMMC/83654
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba SD [Alt]
+#EXTINF:-1 tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem Sorocaba SD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147372
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem São José do Rio Preto FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto FHD
+#EXTINF:-1 tvg-name="GB TV Tem São José do Rio Preto FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem São José do Rio Preto FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162678
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem São José do Rio Preto HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto HD
+#EXTINF:-1 tvg-name="GB TV Tem São José do Rio Preto HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem São José do Rio Preto HD
 http://takegot.net:80/1cGGtx/9zaMMC/162679
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem São José do Rio Preto SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto SD
+#EXTINF:-1 tvg-name="GB TV Tem São José do Rio Preto SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tem São José do Rio Preto SD
 http://takegot.net:80/1cGGtx/9zaMMC/162680
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos FHD
+#EXTINF:-1 tvg-name="GB TV Tribuna Santos FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tribuna Santos FHD
 http://takegot.net:80/1cGGtx/9zaMMC/150151
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos HD
+#EXTINF:-1 tvg-name="GB TV Tribuna Santos HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tribuna Santos HD
 http://takegot.net:80/1cGGtx/9zaMMC/150150
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos SD
+#EXTINF:-1 tvg-name="GB TV Tribuna Santos SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Tribuna Santos SD
 http://takegot.net:80/1cGGtx/9zaMMC/83655
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos FHD
+#EXTINF:-1 tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Vanguarda S.J. dos Campos FHD
 http://takegot.net:80/1cGGtx/9zaMMC/140740
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos HD
+#EXTINF:-1 tvg-name="GB TV Vanguarda S.J. dos Campos HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Vanguarda S.J. dos Campos HD
 http://takegot.net:80/1cGGtx/9zaMMC/140741
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos SD
+#EXTINF:-1 tvg-name="GB TV Vanguarda S.J. dos Campos SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Vanguarda S.J. dos Campos SD
 http://takegot.net:80/1cGGtx/9zaMMC/83656
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda Taubate FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate FHD
+#EXTINF:-1 tvg-name="GB TV Vanguarda Taubate FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Vanguarda Taubate FHD
 http://takegot.net:80/1cGGtx/9zaMMC/169522
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda Taubate HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate HD
+#EXTINF:-1 tvg-name="GB TV Vanguarda Taubate HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Vanguarda Taubate HD
 http://takegot.net:80/1cGGtx/9zaMMC/169521
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda Taubate SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate SD
+#EXTINF:-1 tvg-name="GB TV Vanguarda Taubate SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Vanguarda Taubate SD
 http://takegot.net:80/1cGGtx/9zaMMC/169520
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD
+#EXTINF:-1 tvg-name="GB TV Verdes Mares Ceará FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Verdes Mares Ceará FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162741
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD [Alt]
+#EXTINF:-1 tvg-name="GB TV Verdes Mares Ceará FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Verdes Mares Ceará FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147402
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD
+#EXTINF:-1 tvg-name="GB TV Verdes Mares Ceará HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Verdes Mares Ceará HD
 http://takegot.net:80/1cGGtx/9zaMMC/83507
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD [Alt]
+#EXTINF:-1 tvg-name="GB TV Verdes Mares Ceará HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Verdes Mares Ceará HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147403
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará SD
+#EXTINF:-1 tvg-name="GB TV Verdes Mares Ceará SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB TV Verdes Mares Ceará SD
 http://takegot.net:80/1cGGtx/9zaMMC/83657
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Verdes Mares Cariri FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Verdes Mares Cariri FHD
+#EXTINF:-1 tvg-name="GB Verdes Mares Cariri FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Verdes Mares Cariri FHD
 http://takegot.net:80/1cGGtx/9zaMMC/162743
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Verdes Mares Cariri HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Verdes Mares Cariri HD
+#EXTINF:-1 tvg-name="GB Verdes Mares Cariri HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Verdes Mares Cariri HD
 http://takegot.net:80/1cGGtx/9zaMMC/162711
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Verdes Mares Cariri SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Verdes Mares Cariri SD
+#EXTINF:-1 tvg-name="GB Verdes Mares Cariri SD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globos",GB Verdes Mares Cariri SD
 http://takegot.net:80/1cGGtx/9zaMMC/162702
