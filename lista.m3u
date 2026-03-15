@@ -17,8 +17,30 @@ http://takegot.net:80/1cGGtx/9zaMMC/83811
 http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
 #EXTINF:-1 tvg-name="Xsports FHD" group-title="Xsports",Xsports FHD
 http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
-#EXTINF:-1 tvg-name="Disney+ HD" group-title="Disney+",Disney+ HD
-http://cmd2025.xyz/live/3042625/7837240/96204.m3u
+#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142032.ts
+#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/128347.ts
+#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142033.ts
+#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142034.ts
+#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/129345.ts
+#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142035.ts
+#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142036.ts
+#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/129346.ts
+#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142037.ts
+#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142038.ts
+#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/129347.ts
+#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142039.ts
 #EXTINF:-1 tvg-name="Premiere 1 Clubes 4K" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="4K - H265",Premiere 1 Clubes 4K
 http://takegot.net:80/1cGGtx/9zaMMC/151037
 #EXTINF:-1 tvg-name="Premiere 1 Clubes FHD [H265]" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="4K - H265",Premiere 1 Clubes FHD [H265]
