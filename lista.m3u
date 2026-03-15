@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
+http://pikatop.pro:80/Rodolfo927347/Ap2017/103472.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72321.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131147.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131176.ts
+#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72324.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72325.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72326.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131113.ts
+#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131108.ts
+#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131188.ts
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72329.ts
+#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72330.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72332.ts
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131132.ts
+#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
+http://pikatop.pro:80/Rodolfo927347/Ap2017/103471.ts
 #EXTINF:-1 tvg-name="TV Jovem Pan" group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil FHD
