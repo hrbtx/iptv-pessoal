@@ -1,76 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
-http://pikatop.pro:80/Rodolfo927347/Ap2017/103472.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72321.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131147.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131176.ts
-#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72324.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72325.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72326.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131113.ts
-#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131108.ts
-#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131188.ts
-#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72329.ts
-#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72330.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72332.ts
-#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131132.ts
-#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
-http://pikatop.pro:80/Rodolfo927347/Ap2017/103471.ts
-#EXTINF:-1 tvg-name="TV Jovem Pan" group-title="Notícias",TV Jovem Pan
-https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil FHD
-http://dsplays.pro/live/1307587/4232281/969.m3u
-#EXTINF:-1 tvg-name="CNN Brasil HD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil HD
-http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
-#EXTINF:-1 tvg-name="ESPN 1 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 1 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/71912.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-id="cnn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 2 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/71920.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 3 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/71908.ts
-#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD
-http://takegot.net:80/1cGGtx/9zaMMC/83811
-#EXTINF:-1 tvg-name="Animal Planet FHD" group-title="Entretenimento",Animal Planet FHD
-http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
-#EXTINF:-1 tvg-name="Xsports FHD" tvg-logo="http://pikatop.pro/static/logos/canais/xsports.png" group-title="Xsports",Xsports FHD
-http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
-#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142032.ts
-#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/128347.ts
-#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142033.ts
-#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142034.ts
-#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/129345.ts
-#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142035.ts
-#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142036.ts
-#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/129346.ts
-#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142037.ts
-#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 FHD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142038.ts
-#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 HD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/129347.ts
-#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/142039.ts
 #EXTINF:-1 tvg-name="Premiere 1 FHD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72262.ts
 #EXTINF:-1 tvg-name="Premiere 1 HD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 HD
@@ -117,6 +45,78 @@ http://takegot.net:80/1cGGtx/9zaMMC/83607
 http://takegot.net:80/1cGGtx/9zaMMC/360814
 #EXTINF:-1 tvg-name="Premiere 8 HD" group-title="Premiere FC",Premiere 8 HD
 http://takegot.net:80/1cGGtx/9zaMMC/360816
+#EXTINF:-1 tvg-name="ESPN 1 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 1 FHD
+http://equipeapoli.vip:80/irlahicx/Cliente1/71912.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-id="cnn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 2 FHD
+http://equipeapoli.vip:80/irlahicx/Cliente1/71920.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 3 FHD
+http://equipeapoli.vip:80/irlahicx/Cliente1/71908.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD
+http://takegot.net:80/1cGGtx/9zaMMC/83811
+#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV 4K
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131188.ts
+#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD [H265]
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72330.ts
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72329.ts
+#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72332.ts
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131132.ts
+#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 4K
+http://pikatop.pro:80/Rodolfo927347/Ap2017/103472.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72321.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD [H265]
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131147.ts
+#EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131176.ts
+#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72324.ts
+#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV3 4K
+http://pikatop.pro:80/Rodolfo927347/Ap2017/103471.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72325.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD [H265]
+http://pikatop.pro:80/Rodolfo927347/Ap2017/72326.ts
+#EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131113.ts
+#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/131108.ts
+#EXTINF:-1 tvg-name="TV Jovem Pan" group-title="Notícias",TV Jovem Pan
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil FHD
+http://dsplays.pro/live/1307587/4232281/969.m3u
+#EXTINF:-1 tvg-name="CNN Brasil HD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil HD
+http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
+#EXTINF:-1 tvg-name="Animal Planet FHD" group-title="Entretenimento",Animal Planet FHD
+http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
+#EXTINF:-1 tvg-name="Xsports FHD" tvg-logo="http://pikatop.pro/static/logos/canais/xsports.png" group-title="Xsports",Xsports FHD
+http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
+#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142032.ts
+#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/128347.ts
+#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142033.ts
+#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142034.ts
+#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/129345.ts
+#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142035.ts
+#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142036.ts
+#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/129346.ts
+#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142037.ts
+#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 FHD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142038.ts
+#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 HD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/129347.ts
+#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 SD
+http://pikatop.pro:80/Rodolfo927347/Ap2017/142039.ts
 #EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/156746
 #EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 HD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
