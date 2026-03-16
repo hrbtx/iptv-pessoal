@@ -1,233 +1,233 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Premiere 1 FHD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72262.ts
-#EXTINF:-1 tvg-name="Premiere 1 HD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72265.ts
-#EXTINF:-1 tvg-name="Premiere 1 SD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72266.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 FHD
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72238.ts
-#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 HD
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72239.ts
-#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 SD
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-logo="https://raphmx00.com/premiere2.jpg" group-title="Premiere FC",Premiere 2 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72240.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 FHD
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72241.ts
-#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 HD
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83246
-#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 SD
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-logo="https://raphmx00.com/premiere3.jpg" group-title="Premiere FC",Premiere 3 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83603
-#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 FHD
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/87320
-#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 HD
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83247
-#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 SD
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-logo="https://raphmx00.com/premiere4.jpg" group-title="Premiere FC",Premiere 4 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83604
-#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 5 FHD
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 5 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/152926
-#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 HD
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83248
-#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 SD
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-logo="https://raphmx00.com/premiere5.jpg" group-title="Premiere FC",Premiere 5 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83605
-#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 FHD
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/87319
-#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 HD
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83249
-#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 SD
+#EXTINF:-1 tvg-id="br#premiere-6" tvg-logo="https://raphmx00.com/premiere6.jpg" group-title="Premiere FC",Premiere 6 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83606
-#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 FHD
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/87318
-#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 HD
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83250
-#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 SD
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-logo="https://raphmx00.com/premiere7.jpg" group-title="Premiere FC",Premiere 7 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83607
-#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-id="PremiereClubes.br" group-title="Premiere FC",Premiere 8 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="" group-title="Premiere FC",Premiere 8 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/360814
-#EXTINF:-1 tvg-name="Premiere 8 HD" group-title="Premiere FC",Premiere 8 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premiere FC",Premiere 8 HD
 http://takegot.net:80/1cGGtx/9zaMMC/360816
-#EXTINF:-1 tvg-name="ESPN 1 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 1 FHD
+#EXTINF:-1 tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 1 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/71912.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-id="cnn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id="cnn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 2 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/71920.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 3 FHD
+#EXTINF:-1 tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 3 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/71908.ts
-#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-id="espn" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83811
-#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV 4K
 http://pikatop.pro:80/Rodolfo927347/Ap2017/131188.ts
-#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD [H265]
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD [H265]
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72330.ts
-#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72329.ts
-#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72332.ts
-#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/131132.ts
-#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 4K
 http://pikatop.pro:80/Rodolfo927347/Ap2017/103472.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72321.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD [H265]
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD [H265]
 http://pikatop.pro:80/Rodolfo927347/Ap2017/131147.ts
-#EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/131176.ts
-#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72324.ts
-#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV3 4K
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV3 4K
 http://pikatop.pro:80/Rodolfo927347/Ap2017/103471.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72325.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD [H265]
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD [H265]
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72326.ts
-#EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/131113.ts
-#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/131108.ts
-#EXTINF:-1 tvg-name="TV Jovem Pan" group-title="Notícias",TV Jovem Pan
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/71837.ts
-#EXTINF:-1 tvg-name="CNN Brasil HD" tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil HD
+#EXTINF:-1 tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil FHD
+http://dns.phaptom.shop:80/qug94298/ddr72528/148298
+#EXTINF:-1 tvg-id="cnnbrasil" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil HD
 http://protecreverse.shop:80/364905256/073975236/13808320.m3u8
-#EXTINF:-1 tvg-name="Animal Planet FHD" group-title="Entretenimento",Animal Planet FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Entretenimento",Animal Planet FHD
 http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
-#EXTINF:-1 tvg-name="Xsports FHD" tvg-logo="http://pikatop.pro/static/logos/canais/xsports.png" group-title="Xsports",Xsports FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/xsports.png" group-title="Xsports",Xsports FHD
 http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
-#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142032.ts
-#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/128347.ts
-#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142033.ts
-#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142034.ts
-#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/129345.ts
-#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 2 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142035.ts
-#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142036.ts
-#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/129346.ts
-#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 3 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142037.ts
-#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142038.ts
-#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 HD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/129347.ts
-#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 4 SD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/142039.ts
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/156746
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 HD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83866
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 1 SD" tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
+#EXTINF:-1 tvg-id="br#conmebol-tv-1" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
 http://takegot.net:80/1cGGtx/9zaMMC/122541
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83706
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 2 HD" tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
 http://takegot.net:80/1cGGtx/9zaMMC/83869
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 2 SD" tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
+#EXTINF:-1 tvg-id="br#conmebol-tv-2" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83705
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83712
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 3 HD" tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
 http://takegot.net:80/1cGGtx/9zaMMC/86706
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 3 SD" tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
+#EXTINF:-1 tvg-id="br#conmebol-tv-3" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83711
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 FHD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83715
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 HD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
 http://takegot.net:80/1cGGtx/9zaMMC/165437
-#EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 SD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
+#EXTINF:-1 tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83714
-#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238604.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238606.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238607.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 SD" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238609.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238639.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 HD" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238641.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 SD" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238693.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238694.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238695.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 SD" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238696.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238697.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 HD" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238698.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 SD" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238699.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238700.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 HD" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238701.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 SD" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238702.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238703.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 HD" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238704.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 SD" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238705.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238706.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 HD" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238707.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 SD" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238708.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238709.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 HD" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238710.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 SD" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238711.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238712.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 HD" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238713.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 SD" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238714.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238715.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 HD" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238716.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 SD" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 SD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238717.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 HD" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238718.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 HD" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 HD
 http://equipeapoli.vip:80/irlahicx/Cliente1/238719.ts
-#EXTINF:-1 tvg-name="GB RJ FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ FHD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83502
-#EXTINF:-1 tvg-name="GB RJ FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ FHD [Alt]
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147384
-#EXTINF:-1 tvg-name="GB RJ HD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ HD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ HD
 http://takegot.net:80/1cGGtx/9zaMMC/83459
-#EXTINF:-1 tvg-name="GB RJ HD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ HD [Alt]
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ HD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147385
-#EXTINF:-1 tvg-name="GB SP FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB SP FHD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB SP FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83510
-#EXTINF:-1 tvg-name="GB SP FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB SP FHD [Alt]
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB SP FHD [Alt]
 http://takegot.net:80/1cGGtx/9zaMMC/147388
-#EXTINF:-1 tvg-name="Record RJ FHD" tvg-id="record" tvg-logo="http://pikatop.pro/static/logos/canais/record.png" group-title="Record",Record RJ FHD
+#EXTINF:-1 tvg-id="record" tvg-logo="http://pikatop.pro/static/logos/canais/record.png" group-title="Record",Record RJ FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/106638.ts
-#EXTINF:-1 tvg-name="Record SP FHD" tvg-id="record" tvg-logo="http://pikatop.pro/static/logos/canais/record.png" group-title="Record",Record SP FHD
+#EXTINF:-1 tvg-id="record" tvg-logo="http://pikatop.pro/static/logos/canais/record.png" group-title="Record",Record SP FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/77654.ts
-#EXTINF:-1 tvg-name="RedeTV FHD" tvg-id="redetv" tvg-logo="http://pikatop.pro/static/logos/canais/redetv.png" group-title="RedeTV",RedeTV FHD
+#EXTINF:-1 tvg-id="redetv" tvg-logo="http://pikatop.pro/static/logos/canais/redetv.png" group-title="RedeTV",RedeTV FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/72297.
-#EXTINF:-1 tvg-name="RedeTV FHD [H265]" tvg-id="redetv" tvg-logo="http://pikatop.pro/static/logos/canais/redetv.png" group-title="RedeTV",RedeTV FHD [H265]
+#EXTINF:-1 tvg-id="redetv" tvg-logo="http://pikatop.pro/static/logos/canais/redetv.png" group-title="RedeTV",RedeTV FHD [H265]
 http://equipeapoli.vip:80/irlahicx/Cliente1/72298.ts
-#EXTINF:-1 tvg-name="RedeTV 4K" tvg-id="redetv" tvg-logo="http://pikatop.pro/static/logos/canais/redetv.png" group-title="RedeTV",RedeTV 4K
+#EXTINF:-1 tvg-id="redetv" tvg-logo="http://pikatop.pro/static/logos/canais/redetv.png" group-title="RedeTV",RedeTV 4K
 http://equipeapoli.vip:80/irlahicx/Cliente1/178532.ts
-#EXTINF:-1 tvg-name="SBT RJ FHD" tvg-logo="http://pikatop.pro/static/logos/canais/sbt.png" group-title="SBT",SBT RJ FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://pikatop.pro/static/logos/canais/sbt.png" group-title="SBT",SBT RJ FHD
 http://equipeapoli.vip:80/irlahicx/Cliente1/108681.ts
