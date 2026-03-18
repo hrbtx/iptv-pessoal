@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://equipeapoli.vip/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Entretenimento",Animal Planet FHD
+http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
+#EXTINF:-1 tvg-name="Eu, a Patroa e as Crianças 24H" group-title="Entretenimento",Eu, a Patroa e as Crianças 24H
+http://meusrv.top:80/663148891/863686576/4137144.ts
+#EXTINF:-1 tvg-name="Dragon Ball Z 24H" group-title="Entretenimento",Dragon Ball Z 24H
+http://meusrv.top:80/663148891/863686576/4137156.ts
+#EXTINF:-1 tvg-name="AMC " group-title="Entretenimento",AMC 
+http://meusrv.top:80/663148891/863686576/3.ts
+#EXTINF:-1 tvg-name="Aeroporto Área Restrita 24H" tvg-logo="http://meusrv.top:80/images/57cb0f6969ba5b0fdcb4b18bbcf8a1f3.png" group-title="Entretenimento",Aeroporto Área Restrita 24H
+http://meusrv.top:80/663148891/863686576/4137167.ts
 #EXTINF:-1 tvg-name="Premiere 1 FHD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 FHD
 http://pikatop.pro:80/Rodolfo927347/Ap2017/72262.ts
 #EXTINF:-1 tvg-name="Premiere 1 HD" tvg-id="PremiereClubes.br" tvg-logo="https://raphmx00.com/premiereclubes.jpg" group-title="Premiere FC",Premiere 1 HD
@@ -32,57 +42,37 @@ http://takegot.net:80/1cGGtx/9zaMMC/360814
 #EXTINF:-1 tvg-name="Premiere 8 HD" group-title="Premiere FC",Premiere 8 HD
 http://takegot.net:80/1cGGtx/9zaMMC/360816
 #EXTINF:-1 tvg-name="ESPN 1 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 1 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38413.m3u8
+http://meusrv.top:80/663148891/863686576/49.ts
 #EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 2 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/59097.m3u8
+http://meusrv.top:80/663148891/863686576/43.ts
 #EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 3 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/41477.m3u8
+http://meusrv.top:80/663148891/863686576/45.ts
 #EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/63306.m3u8
+http://meusrv.top:80/663148891/863686576/61.ts
 #EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 5 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38398.m3u8
+http://meusrv.top:80/663148891/863686576/59.ts
 #EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 6 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/129624.m3u8
+http://meusrv.top:80/663148891/863686576/47.ts
 #EXTINF:-1 tvg-name="SporTV 4K" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV 4K
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/40785.m3u8
-#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD [H265]
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38419.m3u8
+http://meusrv.top:80/663148891/863686576/216.ts
 #EXTINF:-1 tvg-name="SporTV FHD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38419.m3u8
-#EXTINF:-1 tvg-name="SporTV HD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV HD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/37255.m3u8
-#EXTINF:-1 tvg-name="SporTV SD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv.png" group-title="SporTV",SporTV SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131132.ts
 #EXTINF:-1 tvg-name="SporTV 2 4K" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 4K
 http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/215402.m3u8
 #EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38395.m3u8
-#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD [H265]
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38395.m3u8
-#EXTINF:-1 tvg-name="SporTV 2 HD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36943.m3u8
-#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/72324.ts
+http://meusrv.top:80/663148891/863686576/144.ts
 #EXTINF:-1 tvg-name="SporTV3 4K" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV3 4K
 http://pikatop.pro:80/Rodolfo927347/Ap2017/103471.ts
 #EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/38394.m3u8
-#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD [H265]
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/62916.m3u8
-#EXTINF:-1 tvg-name="SporTV 3 HD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 HD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/36942.m3u8
-#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-id="sportv.br" tvg-logo="http://pikatop.pro/static/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
-http://pikatop.pro:80/Rodolfo927347/Ap2017/131108.ts
+http://meusrv.top:80/663148891/863686576/146.ts
 #EXTINF:-1 tvg-name="TV Jovem Pan" tvg-logo="http://equipeapoli.vip/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnn.br" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil FHD
-http:http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/65041.m3u8/dns.phaptom.shop:80/qug94298/ddr72528/148298
+http://meusrv.top:80/663148891/863686576/20.ts
 #EXTINF:-1 tvg-name="CNN Brasil HD" tvg-id="cnn.br" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil HD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/65039.m3u8
+http://meusrv.top:80/663148891/863686576/21.ts
 #EXTINF:-1 tvg-name="CNN Brasil 4K" tvg-id="cnn.br" tvg-logo="http://pikatop.pro/static/logos/canais/cnn.png" group-title="Notícias",CNN Brasil 4K
 http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74790.m3u8
-#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://equipeapoli.vip/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Entretenimento",Animal Planet FHD
-http://cmd2025.xyz:80/get.php?username=3042625&password=7837240&type=m3u_plus
 #EXTINF:-1 tvg-name="Xsports FHD" tvg-logo="http://pikatop.pro/static/logos/canais/xsports.png" group-title="Xsports",Xsports FHD
 http://cmd2025.xyz/live/3042625/7837240/1576696.m3u
 #EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://pikatop.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Disney+",Disney + 1 FHD
