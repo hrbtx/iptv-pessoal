@@ -123,72 +123,30 @@ http://takegot.net:80/1cGGtx/9zaMMC/83715
 http://takegot.net:80/1cGGtx/9zaMMC/165437
 #EXTINF:-1 tvg-name="CONMEBOL Paramount+ 4 SD" tvg-id="br#conmebol-tv-4" tvg-logo="https://raphmx00.com/paramountplus.png" group-title="Paramount",CONMEBOL Paramount+ 4 SD
 http://takegot.net:80/1cGGtx/9zaMMC/83714
-#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238604.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238606.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238607.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 SD" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238609.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238639.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 HD" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238641.ts
-#EXTINF:-1 tvg-name="BBB Cam 03 SD" tvg-logo="http://equipeapoli.vip/static/bbb/03.jpg" group-title="BBB",BBB Cam 03 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238693.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238694.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238695.ts
-#EXTINF:-1 tvg-name="BBB Cam 04 SD" tvg-logo="http://equipeapoli.vip/static/bbb/04.jpg" group-title="BBB",BBB Cam 04 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238696.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238697.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 HD" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238698.ts
-#EXTINF:-1 tvg-name="BBB Cam 05 SD" tvg-logo="http://equipeapoli.vip/static/bbb/05.jpg" group-title="BBB",BBB Cam 05 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238699.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238700.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 HD" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238701.ts
-#EXTINF:-1 tvg-name="BBB Cam 06 SD" tvg-logo="http://equipeapoli.vip/static/bbb/06.jpg" group-title="BBB",BBB Cam 06 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238702.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238703.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 HD" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238704.ts
-#EXTINF:-1 tvg-name="BBB Cam 07 SD" tvg-logo="http://equipeapoli.vip/static/bbb/07.jpg" group-title="BBB",BBB Cam 07 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238705.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238706.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 HD" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238707.ts
-#EXTINF:-1 tvg-name="BBB Cam 08 SD" tvg-logo="http://equipeapoli.vip/static/bbb/08.jpg" group-title="BBB",BBB Cam 08 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238708.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238709.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 HD" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238710.ts
-#EXTINF:-1 tvg-name="BBB Cam 09 SD" tvg-logo="http://equipeapoli.vip/static/bbb/09.jpg" group-title="BBB",BBB Cam 09 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238711.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238712.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 HD" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238713.ts
-#EXTINF:-1 tvg-name="BBB Cam 10 SD" tvg-logo="http://equipeapoli.vip/static/bbb/10.jpg" group-title="BBB",BBB Cam 10 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238714.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 FHD" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 FHD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238715.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 HD" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238716.ts
-#EXTINF:-1 tvg-name="BBB Cam 11 SD" tvg-logo="http://equipeapoli.vip/static/bbb/11.jpg" group-title="BBB",BBB Cam 11 SD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238717.ts
-#EXTINF:-1 tvg-name="BBB Cam 01 HD" tvg-logo="http://equipeapoli.vip/static/bbb/01.jpg" group-title="BBB",BBB Cam 01 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238718.ts
-#EXTINF:-1 tvg-name="BBB Cam 02 HD" tvg-logo="http://equipeapoli.vip/static/bbb/02.jpg" group-title="BBB",BBB Cam 02 HD
-http://equipeapoli.vip:80/irlahicx/Cliente1/238719.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 01
+http://meusrv.top:80/663148891/863686576/2557769.ts
+#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB 02" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 02
+http://meusrv.top:80/663148891/863686576/2557770.ts
+#EXTINF:-1 tvg-id="BIGBBR3" tvg-name="BBB 03" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 03
+http://meusrv.top:80/663148891/863686576/2557771.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 04
+http://meusrv.top:80/663148891/863686576/2557772.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 05
+http://meusrv.top:80/663148891/863686576/2557773.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 06
+http://meusrv.top:80/663148891/863686576/2557774.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 07
+http://meusrv.top:80/663148891/863686576/2558442.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 08
+http://meusrv.top:80/663148891/863686576/2558443.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 09
+http://meusrv.top:80/663148891/863686576/2558444.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 10
+http://meusrv.top:80/663148891/863686576/2558445.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 11
+http://meusrv.top:80/663148891/863686576/2558446.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="Canais | BBB26",BBB 12
+http://meusrv.top:80/663148891/863686576/2558447.ts
 #EXTINF:-1 tvg-name="GB RJ FHD" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ FHD
 http://takegot.net:80/1cGGtx/9zaMMC/83502
 #EXTINF:-1 tvg-name="GB RJ FHD [Alt]" tvg-id="br#rede-globo" tvg-logo="https://raphmx00.com/globo.png" group-title="Globo",GB RJ FHD [Alt]
