@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://equipeapoli.vip/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Entretenimento",Animal Planet FHD
 http://meusrv.top:80/663148891/863686576/4.ts
-#EXTINF:-1 tvg-name="Eu" group-title="Entretenimento",Eu
+#EXTINF:-1 tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/e/e1/Patroa.jpeg/revision/latest?cb=20230729093711&path-prefix=pt-br" group-title="Entretenimento",Eu, a Patroa e as Crianças
 http://meusrv.top:80/663148891/863686576/4137144.ts
 #EXTINF:-1 tvg-name="Dragon Ball Z 24H" group-title="Entretenimento",Dragon Ball Z 24H
 http://meusrv.top:80/663148891/863686576/4137156.ts
