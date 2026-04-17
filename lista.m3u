@@ -60,7 +60,7 @@ http://54k.store:80/10p371i3/2p8817d0/26155
 #EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD
 http://tv5t.xyz:80/live/Luiz9801/194SHHadv/501928.ts
 #EXTINF:-1 tvg-name="ESPN 4 FHD²" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 4 FHD²
-http://prina.so:80/Paulo_Oliveira/EHmtyukGX5/71958.ts
+http://172.110.219.252:80/404829921041/465816152467/2528482.ts
 #EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 5 FHD
 http://tv5t.xyz:80/live/Luiz9801/194SHHadv/501934.ts
 #EXTINF:-1 tvg-name="ESPN 5 FHD²" tvg-id="espn.br" tvg-logo="http://pikatop.pro/static/logos/canais/espn.png" group-title="ESPN",ESPN 5 FHD²
@@ -84,9 +84,9 @@ http://prina.so:80/Paulo_Oliveira/EHmtyukGX5/72326.ts
 #EXTINF:-1 tvg-name="TV Jovem Pan" tvg-logo="http://equipeapoli.vip/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN Brasil FHD
-http://54k.store:80/10p371i3/2p8817d0/70823
+http://172.110.219.252:80/404829921041/465816152467/151826.ts
 #EXTINF:-1 tvg-name="CNN BRASIL FHD²" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN BRASIL FHD²
-http://54k.store:80/10p371i3/2p8817d0/71626
+http://172.110.219.252:80/404829921041/465816152467/150823.ts
 #EXTINF:-1 tvg-name="CNN Brasil SD" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN Brasil SD
 https://cdn-3.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil HD" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN Brasil HD
@@ -140,7 +140,7 @@ http://meusrv.top:80/663148891/863686576/2558446.ts
 #EXTINF:-1 tvg-name="BBB 12" tvg-logo="http://meusrv.top:80/images/af745793f0569d015540fc52b9b0999a.png" group-title="BBB26",BBB 12
 http://meusrv.top:80/663148891/863686576/2558447.ts
 #EXTINF:-1 tvg-name="GB RJ FHD" tvg-id="br#rede-globo" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Globo",GB RJ FHD
-http://tv5t.xyz:80/live/Luiz9801/194SHHadv/869904.ts
+http://172.110.219.252:80/404829921041/465816152467/150839.ts
 #EXTINF:-1 tvg-name="GB RJ FHD²" tvg-id="br#rede-globo" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Globo",GB RJ FHD²
 http://takegot.net:80/1cGGtx/9zaMMC/147384
 #EXTINF:-1 tvg-name="GB SP FHD" tvg-id="br#rede-globo" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Globo",GB SP FHD
