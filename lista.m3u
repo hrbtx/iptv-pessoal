@@ -77,8 +77,8 @@ http://pikatop.pro:80/Rodolfo927347/Ap2017/103471.ts
 http://sp.kiwi:80/Egna85041897/Zyg729Frd/83415
 #EXTINF:-1 tvg-name="TV Jovem Pan" tvg-logo="http://equipeapoli.vip/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Notícias",TV Jovem Pan
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN Brasil FHD
-http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/65041.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0178_CNN-BRASIL.png" group-title="Canais | Brasil",CNN Brasil FHD H265
+http://kplay.red/live/Anderson2024/51235873/969.m3u
 #EXTINF:-1 tvg-name="CNN BRASIL FHD²" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN BRASIL FHD²
 http://play.1list.vip/live/EquadorValcy/6124tzjv8zr/74790.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil SD" tvg-id="cnn.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" group-title="Notícias",CNN Brasil SD
